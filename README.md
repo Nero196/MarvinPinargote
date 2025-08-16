@@ -1,8 +1,8 @@
 # 👋 Hola, soy Marvin Pinargote  
 
-🔹 Analista de Datos y Desarrollador enfocado en **Business Intelligence, Big Data y Machine Learning**.  
-🔹 Apasionado por transformar datos en decisiones estratégicas, y en integrar soluciones modernas con **Cloud** e **IA aplicada a datos**.  
-🔹 Me gusta experimentar con nuevas tecnologías como **React** y explorar la intersección entre **Data Science** y **Desarrollo Web**.  
+🔹 Analista de Datos especializado en **Business Intelligence, Big Data y Machine Learning**.  
+🔹 Apasionado por transformar datos en conocimiento y construir soluciones con **tecnologías modernas, Cloud e IA**.  
+
 
 ## 🚀 Tecnologías y Herramientas
 - **Lenguajes:** Python, R, SQL, JavaScript  
