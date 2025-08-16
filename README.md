@@ -19,3 +19,6 @@
 - 🔸 Desarrollo de prototipos en **React** con visualizaciones interactivas de datos.  
 
 📫 Conecta conmigo en [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/marvinpinargote))  
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+          
