@@ -20,5 +20,5 @@
 
 📫 Conecta conmigo en [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/marvinpinargote))  
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
           
