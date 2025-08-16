@@ -18,4 +18,4 @@
 - 🔸 Integración de **Spark + Cloud** para procesamiento de grandes volúmenes de datos.  
 - 🔸 Desarrollo de prototipos en **React** con visualizaciones interactivas de datos.  
 
-📫 Conecta conmigo en [LinkedIn](https://linkedin.com/)  
+📫 Conecta conmigo en [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/marvinpinargote))  
